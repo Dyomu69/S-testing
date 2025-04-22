@@ -1,1 +1,1 @@
-# S-testing
+# S-testing project
